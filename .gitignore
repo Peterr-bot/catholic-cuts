@@ -1,0 +1,15 @@
+# ignore AI cache
+.catholic_cache/
+
+# python cache
+__pycache__/
+*.pyc
+
+# streamlit local state
+.streamlit/
+
+# OS junk
+.DS_Store
+
+# environment variables
+.env
